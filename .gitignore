@@ -1,0 +1,25 @@
+# Dados — nunca versionar
+data/
+*.csv
+*.parquet
+*.zip
+heatmaps*/
+*.png
+*.jpg
+
+# Exceções: documentação dentro de data/
+!data/README.md
+
+# Saídas grandes e temporários
+reports/*.pdf
+reports/*.xlsx
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Credenciais — jamais
+.env
+*.token
+*secret*

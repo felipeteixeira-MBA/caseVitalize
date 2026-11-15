@@ -60,7 +60,7 @@ Cenários com treinos sobre o bruto (sem decisão 23) mostram só o efeito de co
 | contas com treino | 36.538 | 36.538 | −0 |
 | contas com número de treinos diferente |  |  | 4.940 |
 
-## 7. Decisões 28 a 30 (gravadas no `decisoes.md` em 09/11/2026)
+## 7. Decisões novas propostas (formato do `decisoes.md`, não gravadas)
 
 | # | Data | Arquivo | Problema | Decisão (corrigir/remover/marcar) | Motivo | Efeito na contagem (antes → depois) |
 |---|------|---------|----------|-----------------------------------|--------|-------------------------------------|

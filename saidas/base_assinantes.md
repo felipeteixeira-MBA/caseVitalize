@@ -118,7 +118,7 @@ Regras de vazio: contagens ausentes = 0; recência de quem não treinou = 90 (te
 - **Plano e canal** vêm de `assinaturas.csv`; nos eventos nunca mudam por conta, então não há vazamento. A **renovação** vem só dos eventos até o corte (o retrato de 01/10 erra a situação de 36,6% das contas com renovação desligada).
 - **Taxa de saída diferente por corte:** as janelas de 60 dias têm sazonalidade diferente; comparar taxas entre cortes exige cuidado.
 
-## 6. Decisões 33 a 36 (gravadas no `decisoes.md` em 09/11/2026)
+## 6. Decisões propostas (formato do `decisoes.md`, não gravadas)
 
 | # | Data | Arquivo | Problema | Decisão (corrigir/remover/marcar) | Motivo | Efeito na contagem (antes → depois) |
 |---|------|---------|----------|-----------------------------------|--------|-------------------------------------|

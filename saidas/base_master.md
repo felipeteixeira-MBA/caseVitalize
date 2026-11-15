@@ -128,7 +128,7 @@ Colunas por uso: agrupamento 46, descritiva 25, proibida 3.
 - `ex_assinante` e as colunas de fim são saída já ocorrida: por isso `proibida` para o agrupamento.
 - `grupo_campanha` descreve a campanha de 10/08; não deve formar grupos, porque o sorteio é aleatório.
 
-## 6. Decisões 37 e 38 (gravadas no `decisoes.md` em 09/11/2026)
+## 6. Decisões propostas (formato do `decisoes.md`, não gravadas)
 
 | # | Data | Arquivo | Problema | Decisão (corrigir/remover/marcar) | Motivo | Efeito na contagem (antes → depois) |
 |---|------|---------|----------|-----------------------------------|--------|-------------------------------------|

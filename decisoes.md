@@ -1,4 +1,4 @@
-# Registro de decisões · Vitaliza grupo 08
+# Registro de decisões · Vitaliza grupo 06
 
 Cada problema de dados tem três saídas: corrigir, remover ou marcar.
 Toda escolha entra aqui com o motivo e o efeito na contagem.
